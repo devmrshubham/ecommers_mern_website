@@ -1,0 +1,15 @@
+.table {
+  width: 1200px;
+  border: 2px solid black;
+  margin: 40px auto 0px;
+}
+
+.table tr {
+  font-size: bold;
+  border: 1px solid black;
+}
+
+.table tr {
+  text-align: center;
+  border: 1px solid black;
+}
